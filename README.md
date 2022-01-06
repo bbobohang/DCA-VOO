@@ -5,4 +5,5 @@ The overlying concept of this project is to test the efficiency of DCA into VOO.
 and USD 1 for RSP.
 
 RSP: An buy order will be done at the open of 8th of every month. In a case that 8th is not a trading day, the capital of USD 300 will be accumulated and brought over to the next trading 8th month.
+Lumpsum: An buy order will be done at the last trading day of the year with the full amount of capital.
 
